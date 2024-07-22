@@ -1,0 +1,12 @@
+Lx  Ly  Nx Ny   xc  yc
+12  10  240  200 3   5
+readmesh   ,0 to generate mesh, 1 to read mesh from file
+0               
+dt      tEnd    Tsave/step size
+0.001    31       8000
+Re      omega_ad    omega_pp
+150     1.0         1.0
+ADS_tol     PPE_tol
+1e-5        1e-3
+probex  probey
+4.5       3
